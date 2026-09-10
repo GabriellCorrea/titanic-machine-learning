@@ -148,4 +148,4 @@ Os resultados no teste ficaram próximos das médias obtidas na validação cruz
 
 ## ✍️ Autor
 
-Gabriel
+Gabriel Corrêa
